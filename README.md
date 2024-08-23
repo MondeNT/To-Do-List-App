@@ -12,13 +12,13 @@ Monde's To-Do List is a Django-based task management application designed to hel
 ## Screenshots
 
 ### Login
-![Login](https://github.com/MondeNT/To-Do-List-App/assets/3e9ca33c-c6a4-46e5-8b39-edf349d0b85a)
+![Screenshot 2024-08-23 211558](https://github.com/user-attachments/assets/0c06bc49-537c-47dd-8870-7643737dc733)
 
 ### Task List
-![Task List](https://github.com/MondeNT/To-Do-List-App/assets/35400a10-bcc7-4956-9c90-2983af87db3f)
+![Screenshot (48)](https://github.com/user-attachments/assets/b91871f1-deb8-4e0b-b293-24bb627fc271)
 
 ### Add New Task
-![Add New Task](https://github.com/MondeNT/To-Do-List-App/assets/890a707e-5c88-48ef-9f75-25fb1cff52a9)
+![Screenshot 2024-08-23 211951](https://github.com/user-attachments/assets/de920bdc-a05b-40f4-9552-0d8020024491)
 
 ## Prerequisites
 
